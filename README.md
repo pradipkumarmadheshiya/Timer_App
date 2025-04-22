@@ -23,5 +23,5 @@ This is a simple yet functional **Timer Application** built using **HTML**, **CS
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/fb9b8aae-63d1-41c3-99d8-e91e2c024470)
